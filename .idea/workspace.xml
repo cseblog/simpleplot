@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6d4d58a-6a2e-4f2c-a6d3-0350216cb949" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VeFnAHn32UPwGH1OTdPfUnIFIa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="plotfinance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="plotfinance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plotfinance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plotfinance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6d4d58a-6a2e-4f2c-a6d3-0350216cb949" name="Default Changelist" comment="" />
+      <created>1577605817715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577605817715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577606184861">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1577606184861" />
+    <state width="1259" height="321" key="GridCell.Tab.0.bottom" timestamp="1577613144881">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="321" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1577613144881" />
+    <state width="1259" height="321" key="GridCell.Tab.0.center" timestamp="1577613144879">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="321" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1577613144879" />
+    <state width="1259" height="321" key="GridCell.Tab.0.left" timestamp="1577613144879">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="321" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1577613144879" />
+    <state width="1259" height="321" key="GridCell.Tab.0.right" timestamp="1577613144880">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="321" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1577613144880" />
+    <state width="1259" height="337" key="GridCell.Tab.1.bottom" timestamp="1577612873221">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="337" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1577612873221" />
+    <state width="1259" height="337" key="GridCell.Tab.1.center" timestamp="1577612873219">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="337" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1577612873219" />
+    <state width="1259" height="337" key="GridCell.Tab.1.left" timestamp="1577612873218">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="337" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1577612873218" />
+    <state width="1259" height="337" key="GridCell.Tab.1.right" timestamp="1577612873220">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="337" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1577612873220" />
+    <state x="149" y="50" key="SettingsEditor" timestamp="1577608309860">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="149" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1577608309860" />
+    <state width="640" height="388" key="XDebugger.FullValuePopup" timestamp="1577612862376">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="640" height="388" key="XDebugger.FullValuePopup/0.23.1280.777@0.23.1280.777" timestamp="1577612862376" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1577608146959">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1577608146959" />
+    <state x="0" y="23" width="816" height="777" key="find.popup" timestamp="1577613140071">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" width="816" height="777" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1577613140071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plotfinance.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
