@@ -30,8 +30,8 @@ generate line chart
 '''
 
 
-def generate_line_chart(fname):
-    df = pd.read_csv("data/"+ fname)
+def lc_gen(file_name):
+    df = pd.read_csv("data/" + file_name)
     fig = px.line(df, x="ts", y="max")
     fig.add_scatter(x=df['ts'], y=df['mean'], mode='lines')
     fig.add_scatter(x=df['ts'], y=df['min'], mode='lines')
@@ -56,9 +56,8 @@ return html block for the table
 '''
 
 
-def generate_tbl_html(fname):
-    print(fname + " daddd")
-    df = pd.read_csv('data/'+ fname)
+def tbl_gen(file_name):
+    df = pd.read_csv('data/' + file_name)
     tb = df.describe()
     tb = tb\
         .to_html()\
@@ -67,10 +66,10 @@ def generate_tbl_html(fname):
 
 
 # main
-tbl = generate_tbl_html("tempTb1.csv")
+tbl = tbl_gen("tempTb1.csv")
 
-lchart1 = generate_line_chart("raw1.csv")
-lchart2 = generate_line_chart("raw2.csv")
+lchart1 = lc_gen("raw1.csv")
+lchart2 = lc_gen("raw2.csv")
 
 page = header + tbl + lchart1 + lchart2 + footer
 with open('new_plot.html', 'w') as f:
